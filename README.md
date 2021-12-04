@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @marceloev123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-marceloev123/marceloev123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Marcelo Valdivia, I'm a frontend developer
+- 👀 I’m interested in software and web development
+- 📫 How to reach me:
+- Email: marceloevv08@gmail.com
+- LinkedIn: https://www.linkedin.com/in/marcelo-ernesto-valdivia-vizcarra/
